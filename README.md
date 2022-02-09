@@ -27,7 +27,7 @@ I'm Danilo Nascimento, a developer 👨‍💻 who is passionate about mobile & 
   <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"></code>
   <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"></code>
   <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
-  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"></code>
   <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
   <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
   <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>

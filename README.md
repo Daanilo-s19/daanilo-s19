@@ -1,5 +1,5 @@
 # Danilo Nascimento
-[![Linkedin Badge](https://img.shields.io/badge/-danielobara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-nascimento-33071a133/)](https://www.linkedin.com/in/danilo-nascimento-33071a133/)
+[![Linkedin Badge](https://img.shields.io/badge/-Danilo Nascimento-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-nascimento-33071a133/)](https://www.linkedin.com/in/danilo-nascimento-33071a133/)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://pt.stackoverflow.com/users/276024/danilo-nascimento)](https://pt.stackoverflow.com/users/276024/danilo-nascimento)
 <!-- [![Codewars Badge](https://www.codewars.com/users/TsutomuObara/badges/micro)](https://www.codewars.com/users/TsutomuObara/badges/micro)
 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=green) -->
